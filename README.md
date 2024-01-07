@@ -1,7 +1,6 @@
 # Flare-Full-Stack-Internship Tasks
 
 ## Week 1
-### Day 1
 
 | DAY | CODE | LINK |
 | ---------| ---------| ---------|
