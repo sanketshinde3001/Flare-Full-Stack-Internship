@@ -36,4 +36,16 @@
 | 3 & 4  | [code](https://github.com/sanketshinde3001/Flare-Full-Stack-Internship/tree/main/week3/nextjs-paginate) | [Pagination](https://peginatition.vercel.app/)  |
 | 5 & 6  | [code](https://github.com/sanketshinde3001/Flare-Full-Stack-Internship/tree/main/week3/shadcn) | [Shadcn UI](https://shadcn-ui-lib.vercel.app/) |
 
+## Week 4 [Nodejs Expressjs Mongodb Prectice]
 
+## Week 5 [Signup and Login]
+
+| CODE | LINK |
+| ---------| ---------|
+| [code](https://github.com/sanketshinde3001/Flare-Full-Stack-Internship/tree/main/week5) | [Login&Signup](https://week5-b428.onrender.com/)|
+
+## Week 6 [Certificate Generator Project]
+
+| CODE | LINK |
+| ---------| ---------|
+| [code](https://github.com/sanketshinde3001/Certificate-Generator-Project) | [Certificate Gen](https://certificate-generator-w2pu.onrender.com/)|
