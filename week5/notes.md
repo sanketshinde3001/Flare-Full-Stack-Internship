@@ -489,7 +489,7 @@ router.get('/findfield',async function(req, res) {
     app.use(session({
       resave:false,
       saveUninitialized:false,
-      secret:"golumolu"
+      secret:"keepitsecret"
     }))
     // above code used to save data to server as sessions
 
